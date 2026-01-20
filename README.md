@@ -17,7 +17,7 @@ The goal of this project is to build a machine learning model that can identify 
 - Target column: `Class`  
   - 0 → Normal transaction  
   - 1 → Fraud transaction  
-
+Dataset link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ---
 
 ## Tools & Technologies
